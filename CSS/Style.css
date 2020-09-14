@@ -1,0 +1,37 @@
+.MyFormBox{
+	width: 800px;
+	margin: auto;
+	background-color: rgba(255,255,255,0.6);
+	border-radius: 10px;
+	padding: 55px 60px;
+	text-align: center;
+}
+.MyFormBox h2{
+	text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 40px;
+}
+.MyFormBox form{
+	text-align: center;
+}
+.MyFormBox form input{
+	display: block;
+	width: 300px;
+	margin-bottom: 30px;
+	border-radius: 5px;
+	padding: 10px
+}
+
+.MyFormBox{
+	background: linear-gradient(45deg,#27dbe9,#e3e67d);
+	color: white; 
+	width: 340px !important;
+}
+
+.MyFormBox form input checkbox{
+	display: block;
+	width: 300px
+
+}
+
